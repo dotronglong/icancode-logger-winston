@@ -1,0 +1,42 @@
+{
+  "name": "@icancode/logger-winston",
+  "version": "1.0.0",
+  "description": "This package provide Logger using winston package",
+  "main": "main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint lib/**/*.ts",
+    "clean": "git clean -fx",
+    "prebuild": "yarn lint --fix",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com:dotronglong/icancode-logger-winston.git"
+  },
+  "keywords": [
+    "icancode",
+    "logger",
+    "winston"
+  ],
+  "author": "Long Do <dotronglong@live.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dotronglong/icancode-logger-winston/issues"
+  },
+  "homepage": "https://github.com/dotronglong/icancode-logger-winston#readme",
+  "dependencies": {
+    "@icancode/base": "^1.0.1",
+    "@icancode/logger": "^1.0.4",
+    "uuid": "^9.0.0",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "@typescript-eslint/eslint-plugin": "^5.58.0",
+    "@typescript-eslint/parser": "^5.58.0",
+    "eslint": "^8.38.0",
+    "eslint-config-google": "^0.14.0",
+    "typescript": "^5.0.4"
+  }
+}
