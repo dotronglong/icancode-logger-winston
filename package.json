@@ -29,7 +29,7 @@
     "@icancode/base": "^1.0.1",
     "@icancode/logger": "^1.0.4",
     "uuid": "^9.0.0",
-    "winston": "^3.8.2"
+    "winston": "^3.17.0"
   },
   "devDependencies": {
     "@types/node": "^18.15.11",
