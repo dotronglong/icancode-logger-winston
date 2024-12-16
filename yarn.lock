@@ -72,6 +72,11 @@
   resolved "https://registry.yarnpkg.com/@icancode/base/-/base-1.0.1.tgz#cce64224e8e237b29b14d959ee608872bc4f2245"
   integrity sha512-nhd1W5L9zycq5TEB5oth30GqM1xj2QZLyimMUEDjmJZwQElqDF3ZSCAJ0oPc3nVHbOZlpKGkE5xoabRyCJYtlQ==
 
+"@icancode/base@^1.1.8":
+  version "1.1.8"
+  resolved "https://registry.yarnpkg.com/@icancode/base/-/base-1.1.8.tgz#7be3b86988c21774a94f33f994700b1fe199e344"
+  integrity sha512-lqqfaB6UCtizbCV3tlcbgCG50B5Kb/gfrfhqwuiKccCrVsLZ5jF4dHCQ4wy6tGTVhgi/SnsQsaXiVMfGZxZLsg==
+
 "@icancode/logger@^1.0.4":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@icancode/logger/-/logger-1.0.4.tgz#2b76879630a5ac9fa340c0fbb137ca3f6e356363"
