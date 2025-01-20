@@ -27,7 +27,7 @@
   "homepage": "https://github.com/dotronglong/icancode-logger-winston#readme",
   "dependencies": {
     "@icancode/base": "^1.0.1",
-    "@icancode/logger": "^1.0.4",
+    "@icancode/logger": "^1.1.1",
     "uuid": "^9.0.0",
     "winston": "^3.8.2"
   },
